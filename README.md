@@ -1,3 +1,6 @@
-# My Awesome Book
+# Blockchain at Berkeley Index of Knowledge
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+
+
+Index of knowledge for B@B. All information regarding Blockchain, origins, ICOs, Legal, e
+
