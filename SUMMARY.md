@@ -10,6 +10,8 @@
 * [Governance](governance.md)
 * [Consensus Algorithms](consensus-algorithms.md)
 * [Scalability](scalability.md)
+  * [On-Chain Scaling](scalability/on-chain-scaling.md)
+    * [Throughput](scalability/on-chain-scaling/tx-size-and-tps.md)
 * [Identity](identity.md)
 * [Prediction Markets](prediction-markets.md)
 * [Interchain Solutions](interchain-solutions.md)
