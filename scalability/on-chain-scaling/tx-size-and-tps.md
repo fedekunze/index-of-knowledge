@@ -8,11 +8,7 @@ There are three different variables that affect the current throughput in transa
 
 The current formula for Bitcoin throughput in tps is the following:
 
-
-$$
-\frac{1 MiB}{1 block} \times \frac{1 txn}{546 bytes} \times \frac{1 block}{10 min}  \approx 3.2 tps
-$$
-
+$$\frac{1 MiB}{1 block} \times \frac{1 txn}{546 bytes} \times \frac{1 block}{10 min}  \approx 3.2 tps$$
 
 ## 1. Increasing Block Size
 
