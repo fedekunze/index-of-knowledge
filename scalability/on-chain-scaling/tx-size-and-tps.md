@@ -33,11 +33,9 @@ While increasing the block size is one of the solutions for on-chain scalability
 
 ## 2. Increasing Block Speed \(confirmation time\)
 
-This is one of the main differences between Ethereum \(17s confirmation time\) vs Bitcoin \(10 min confirmation time\). 
+This is one of the main differences between Ethereum \(17s confirmation time\) vs Bitcoin \(10 min confirmation time\).
 
 While this is a easy implementation as well \(you only need to change the average block difficulty\), this can create more frequent forks or orphaned blocks. Orphan blocks are valid block propagated but not included in the longest main chain. Also, it requires better bandwidth and storage space to keep up with network and blockchain growth, both of which encourage centralization in pools. \(Cite or argument\)
 
 Nevertheless, long-term security is maintained despite faster block times in context of double spend attacks. This is not the case in the short term \(argument\).
-
-
 
