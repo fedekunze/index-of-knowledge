@@ -52,13 +52,14 @@
     * Microsoft Coco
   * Horizontal Scaling
     * Sidechains
+      * Merge Mining
     * Atomic Swaps
+    * Cosmos
+    * Polkadot
+    * Interledger
+    * Comit
   * Vertical Scaling
     * Sharding
-* [Interchain Solutions](interchain-solutions.md)
-  * Cosmos
-  * Polkadot
-  * Interledger
 * [Identity](identity.md)
   * Uport
   * Civic
