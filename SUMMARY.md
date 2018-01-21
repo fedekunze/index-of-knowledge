@@ -35,7 +35,7 @@
 * [Scalability](scalability.md)
   * [On-Chain Scaling](scalability/on-chain-scaling.md)
     * [Block Size, Block Speed and Transaction Size ](scalability/on-chain-scaling/tx-size-and-tps.md)
-    * GHOST Protocol
+    * [GHOST Protocol](scalability/on-chain-scaling/ghost-protocol.md)
     * [SegWit](scalability/on-chain-scaling/segwit.md)
     * Storage and Light Clients
     * State Prunning
