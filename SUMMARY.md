@@ -30,16 +30,38 @@
   * Ledger based consensus
     * Paxos
     * RAFT
+  * Alternative Consensus
+    * Tendermint
 * [Scalability](scalability.md)
   * [On-Chain Scaling](scalability/on-chain-scaling.md)
     * [Block Size, Block Speed and Transaction Size ](scalability/on-chain-scaling/tx-size-and-tps.md)
+    * GHOST Protocol
     * [SegWit](scalability/on-chain-scaling/segwit.md)
+    * Storage and Light Clients
+    * State Prunning
+    * Different Data Structures
+      * DAGs
+      * Hashgraph
   * [Off-Chain Scaling](scalability/off-chain-scaling.md)
+    * Settlement Networks
+    * Off-Chain Computations
+      * Truebit
+    * Generalized State Channels
+      * Plasma
+  * TEE based Scaling
+    * Microsoft Coco
+  * Horizontal Scaling
+    * Sidechains
+    * Atomic Swaps
+  * Vertical Scaling
+    * Sharding
 * [Interchain Solutions](interchain-solutions.md)
   * Cosmos
   * Polkadot
   * Interledger
 * [Identity](identity.md)
+  * Uport
+  * Civic
 * Oracle Networks
 * [Prediction Markets](prediction-markets.md)
   * Augur
