@@ -18,7 +18,7 @@
   * Factions at play
   * Forums and blogs 
 * [Wallets, Exchanges and Practical Usage](wallets-exchanges-and-practical-usage.md)
-* Law and regulations
+* [Law and regulations](law-and-regulations.md)
 * [Governance](governance.md)
   * DAOs
   * Tezos
@@ -61,5 +61,4 @@
   * Mixers
   * Ring Signatures
   * Zero Knowledge Proofs
-* Law and regulations
 
