@@ -63,7 +63,9 @@
 * [Identity](identity.md)
   * Uport
   * Civic
+  * Soverin
 * Oracle Networks
+  * Town Crier
 * [Prediction Markets](prediction-markets.md)
   * Augur
   * Gnosis
