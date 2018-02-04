@@ -45,7 +45,7 @@
         * [Spectre](scalability/on-chain-scaling/different-data-structures/dags/spectre.md)
         * [Phantom](scalability/on-chain-scaling/different-data-structures/dags/phantom.md)
         * IOTA
-      * Hashgraph
+      * [Hashgraph](scalability/on-chain-scaling/different-data-structures/hashgraph.md)
   * [Off-Chain Scaling](scalability/off-chain-scaling.md)
     * Settlement Networks
     * Off-Chain Computations
