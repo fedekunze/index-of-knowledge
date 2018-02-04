@@ -22,6 +22,10 @@
   * Forums and blogs 
 * [Wallets, Exchanges and Practical Usage](wallets-exchanges-and-practical-usage.md)
 * [Law and regulations](law-and-regulations.md)
+  * [SAFT](law-and-regulations/saft.md)
+  * [Cardozo](law-and-regulations/cardozo.md)
+  * Taxation
+    * CFTA
 * [Consensus Algorithms](consensus-algorithms.md)
   * Proof of Work
   * Proof of Stake
