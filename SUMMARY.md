@@ -67,8 +67,9 @@
   * Soverin
 * [Oracle Networks](oracle-networks.md)
   * Town Crier
-  * [Exogenous solutions](oracle-networks/exogenous-solutions.md)
-  * Endogenous solutions
+  * [Exogenous Solutions](oracle-networks/exogenous-solutions.md)
+    * SchellingCoin
+  * [Endogenous Solutions](oracle-networks/endogenous-solutions.md)
 * [Prediction Markets](prediction-markets.md)
   * Augur
   * Gnosis
