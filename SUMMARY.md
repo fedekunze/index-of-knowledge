@@ -38,10 +38,13 @@
     * [Block Size, Block Speed and Transaction Size ](scalability/on-chain-scaling/tx-size-and-tps.md)
     * [GHOST Protocol](scalability/on-chain-scaling/ghost-protocol.md)
     * [SegWit](scalability/on-chain-scaling/segwit.md)
-    * Storage and Light Clients
-    * State Prunning
-    * Different Data Structures
-      * DAGs
+    * [Storage and Light Clients](scalability/on-chain-scaling/storage-and-light-clients.md)
+    * [State Prunning](scalability/on-chain-scaling/state-prunning.md)
+    * [Different Data Structures](scalability/on-chain-scaling/different-data-structures.md)
+      * [DAGs](scalability/on-chain-scaling/different-data-structures/dags.md)
+        * Spectre
+        * Phantom
+        * IOTA
       * Hashgraph
   * [Off-Chain Scaling](scalability/off-chain-scaling.md)
     * Settlement Networks
