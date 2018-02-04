@@ -42,8 +42,8 @@
     * [State Prunning](scalability/on-chain-scaling/state-prunning.md)
     * [Different Data Structures](scalability/on-chain-scaling/different-data-structures.md)
       * [DAGs](scalability/on-chain-scaling/different-data-structures/dags.md)
-        * Spectre
-        * Phantom
+        * [Spectre](scalability/on-chain-scaling/different-data-structures/dags/spectre.md)
+        * [Phantom](scalability/on-chain-scaling/different-data-structures/dags/phantom.md)
         * IOTA
       * Hashgraph
   * [Off-Chain Scaling](scalability/off-chain-scaling.md)
