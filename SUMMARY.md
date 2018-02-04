@@ -2,6 +2,9 @@
 
 * [Introduction](README.md)
 * [Blockchain Origins](blockchain-origins.md)
+  * Cypherpunks
+* Bitcoin
+* [Ethereum](ethereum.md)
 * [High Level Introduction](chapter1.md)
   * Bizantine Generals Problem
   * Understanding Consensus
@@ -90,9 +93,4 @@
   * Filecoin
   * TOR
   * MaidSafe
-* [Cryptoeconomics](cryptoeconomics.md)
-* Anonymization
-  * Mixers
-  * Ring Signatures
-  * Zero Knowledge Proofs
 
