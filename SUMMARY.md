@@ -65,8 +65,8 @@
   * Vertical Scaling
     * Sharding
 * [Identity](identity.md)
-  * Uport
-  * Civic
+  * [Uport](identity/uport.md)
+  * [Civic](identity/civic.md)
   * Soverin
 * [Oracle Networks](oracle-networks.md)
   * [Services](oracle-networks/services.md)
