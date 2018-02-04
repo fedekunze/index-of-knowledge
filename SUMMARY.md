@@ -24,6 +24,8 @@
 * [Law and regulations](law-and-regulations.md)
   * [SAFT](law-and-regulations/saft.md)
   * [Cardozo](law-and-regulations/cardozo.md)
+  * [KYC](law-and-regulations/kyc.md)
+  * Right to Erasure
   * Taxation
     * CFTA
 * [Consensus Algorithms](consensus-algorithms.md)
