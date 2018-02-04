@@ -19,10 +19,6 @@
   * Forums and blogs 
 * [Wallets, Exchanges and Practical Usage](wallets-exchanges-and-practical-usage.md)
 * [Law and regulations](law-and-regulations.md)
-* [Governance](governance.md)
-  * DAOs
-  * [Tezos](governance/tezos.md)
-  * [Futarchy](governance/futarchy.md)
 * [Consensus Algorithms](consensus-algorithms.md)
   * Proof of Work
   * Proof of Stake
@@ -67,9 +63,11 @@
 * [Identity](identity.md)
   * [Uport](identity/uport.md)
   * [Civic](identity/civic.md)
-  * Soverin
+  * [Soverin](identity/soverin.md)
 * [Oracle Networks](oracle-networks.md)
   * [Services](oracle-networks/services.md)
+    * Oraclize
+    * Town Crier
   * [Exogenous Solutions](oracle-networks/exogenous-solutions.md)
     * SchellingCoin
   * [Endogenous Solutions](oracle-networks/endogenous-solutions.md)
@@ -80,6 +78,10 @@
   * Stable Coins
   * Asset Backers
   * Decentralized Monetary Policy
+* [Governance](governance.md)
+  * DAOs
+  * [Tezos](governance/tezos.md)
+  * [Futarchy](governance/futarchy.md)
 * [Decentralized Storage and Internet](decentralized-storage-and-internet.md)
   * History
   * Storj
