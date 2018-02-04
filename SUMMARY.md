@@ -27,7 +27,7 @@
   * [KYC](law-and-regulations/kyc.md)
   * Right to Erasure
   * Taxation
-    * CFTA
+    * [CFTA](law-and-regulations/cfta.md)
 * [Consensus Algorithms](consensus-algorithms.md)
   * Proof of Work
   * Proof of Stake
