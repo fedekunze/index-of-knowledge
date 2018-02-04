@@ -65,8 +65,10 @@
   * Uport
   * Civic
   * Soverin
-* Oracle Networks
+* [Oracle Networks](oracle-networks.md)
   * Town Crier
+  * [Exogenous solutions](oracle-networks/exogenous-solutions.md)
+  * Endogenous solutions
 * [Prediction Markets](prediction-markets.md)
   * Augur
   * Gnosis
