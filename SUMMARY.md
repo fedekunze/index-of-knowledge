@@ -66,7 +66,7 @@
   * Civic
   * Soverin
 * [Oracle Networks](oracle-networks.md)
-  * Town Crier
+  * [Services](oracle-networks/services.md)
   * [Exogenous Solutions](oracle-networks/exogenous-solutions.md)
     * SchellingCoin
   * [Endogenous Solutions](oracle-networks/endogenous-solutions.md)
