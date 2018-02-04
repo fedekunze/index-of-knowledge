@@ -21,7 +21,8 @@
 * [Law and regulations](law-and-regulations.md)
 * [Governance](governance.md)
   * DAOs
-  * Tezos
+  * [Tezos](governance/tezos.md)
+  * [Futarchy](governance/futarchy.md)
 * [Consensus Algorithms](consensus-algorithms.md)
   * Proof of Work
   * Proof of Stake
