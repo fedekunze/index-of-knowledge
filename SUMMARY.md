@@ -6,7 +6,7 @@
 * Bitcoin
 * [Ethereum](ethereum.md)
 * [High Level Introduction](chapter1.md)
-  * Bizantine Generals Problem
+  * [Bizantine Generals Problem](chapter1/bizantine-generals-problem.md)
   * Understanding Consensus
 * [Low Level Intro](low-level-intro.md)
   * Pub-key cryptography
