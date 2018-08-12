@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
 * [Blockchain Origins](blockchain-origins.md)
-  * Cypherpunks
-* Bitcoin
+  * [Cypherpunks](blockchain-origins/cypherpunks.md)
+* [Bitcoin](bitcoin.md)
 * [Ethereum](ethereum.md)
 * [High Level Introduction](chapter1.md)
   * [Bizantine Generals Problem](chapter1/bizantine-generals-problem.md)
@@ -15,11 +15,6 @@
 * [Tokens and Exchanges](initial-coin-offerings.md)
   * [Ethereum ERC20 Tokens](initial-coin-offerings/ethereum-erc20-tokens.md)
   * Tokenization and ICOs
-  * Exchanges
-* [Community](community.md)
-  * Key people
-  * Factions at play
-  * Forums and blogs 
 * [Wallets, Exchanges and Practical Usage](wallets-exchanges-and-practical-usage.md)
 * [Law and regulations](law-and-regulations.md)
   * [SAFT](law-and-regulations/saft.md)

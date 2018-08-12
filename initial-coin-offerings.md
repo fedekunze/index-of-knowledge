@@ -1,4 +1,4 @@
-# Tokens and Exchanges
+# Cryptocurrencies
 
 
 
