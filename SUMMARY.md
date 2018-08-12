@@ -9,11 +9,11 @@
   * [Bizantine Generals Problem](chapter1/bizantine-generals-problem.md)
   * Understanding Consensus
 * [Low Level Intro](low-level-intro.md)
-  * Pub-key cryptography
-  * Digital Signatures
-  * Peer-to-peer
+  * [Pub-key cryptography](low-level-intro/pub-key-cryptography.md)
+  * [Digital Signatures](low-level-intro/digital-signatures.md)
+  * [Peer-to-peer](low-level-intro/peer-to-peer.md)
 * [Tokens and Exchanges](initial-coin-offerings.md)
-  * Ethereum ERC20 Tokens
+  * [Ethereum ERC20 Tokens](initial-coin-offerings/ethereum-erc20-tokens.md)
   * Tokenization and ICOs
   * Exchanges
 * [Community](community.md)
