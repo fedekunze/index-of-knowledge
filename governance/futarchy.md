@@ -19,27 +19,21 @@ Two prediction markets, each containing one asset: one for acceptance and the ot
 7. Wait for maturity and measure the success metric
 8. Reward everyone on the winning market in proportion to how many tokens they have
 
-Arguments 
+Arguments
 
-| In favor | Against  |
+| In favor | Against |
 | :--- | :--- |
 | **Fixes voter apathy and rational irrationality** in democracy | Powerful entity/coalition wishing a particular result can **push token prices in favor** by buying their preferred option and short-selling the other |
 | **Market gets better** overtime | Markets can be **exploited by manipulation** due to their volatility |
 | **Reduces irrational social influences** to the governance process | Prediction market's result may be **uncorrelated** to the actual delta of policies |
 | Combines **public participation and professional analysis** | **Hard to compress human values** to a numerical metric due to their complexity |
 
-
-
 Futarchy is likely to work well for large-scale decisions, but much less well for finer grained tasks.
-
-
 
 Future improvements:
 
 * Make it hard for execs managing funds to cheat for their short-term interest
 * Make governance open and transparent
-
-
 
 **Sources: **
 

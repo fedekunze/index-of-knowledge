@@ -15,7 +15,7 @@
 * [Tokens and Exchanges](initial-coin-offerings.md)
   * [Ethereum ERC20 Tokens](initial-coin-offerings/ethereum-erc20-tokens.md)
   * Tokenization and ICOs
-* [Wallets, Exchanges and Practical Usage](wallets-exchanges-and-practical-usage.md)
+* [Wallets](wallets.md)
 * [Law and regulations](law-and-regulations.md)
   * [SAFT](law-and-regulations/saft.md)
   * [Cardozo](law-and-regulations/cardozo.md)
@@ -66,32 +66,30 @@
     * Sharding
 * [Identity](identity.md)
   * [Uport](identity/uport.md)
-  * [Civic](identity/civic.md)
-  * [Soverin](identity/soverin.md)
 * [Oracle Networks](oracle-networks.md)
   * [Services](oracle-networks/services.md)
-    * Oraclize
+    * [Oraclize](oracle-networks/services/oraclize.md)
     * Town Crier
   * [Exogenous Solutions](oracle-networks/exogenous-solutions.md)
     * SchellingCoin
   * [Endogenous Solutions](oracle-networks/endogenous-solutions.md)
 * [Prediction Markets](prediction-markets.md)
-  * Augur
-  * Gnosis
+  * [Augur](prediction-markets/augur.md)
+  * [Gnosis](prediction-markets/gnosis.md)
 * [Price Stabilization](price-stabilization.md)
-  * Stable Coins
-  * Asset Backers
-  * Decentralized Monetary Policy
+  * [Stable Coins](price-stabilization/stable-coins.md)
+  * [Asset Backers](price-stabilization/asset-backers.md)
+  * [Decentralized Monetary Policy](price-stabilization/decentralized-monetary-policy.md)
 * [Governance](governance.md)
-  * DAOs
+  * [DAOs](governance/daos.md)
   * [Tezos](governance/tezos.md)
   * [Futarchy](governance/futarchy.md)
 * [Decentralized Storage and Internet](decentralized-storage-and-internet.md)
   * History
-  * Storj
+  * [Storj](decentralized-storage-and-internet/storj.md)
   * [Swarm](decentralized-storage-and-internet/swarm.md)
-  * IPFS
-  * Filecoin
-  * TOR
-  * MaidSafe
+  * [IPFS](decentralized-storage-and-internet/ipfs.md)
+  * [Filecoin](decentralized-storage-and-internet/filecoin.md)
+  * [TOR](decentralized-storage-and-internet/tor.md)
+  * [MaidSafe](decentralized-storage-and-internet/maidsafe.md)
 
