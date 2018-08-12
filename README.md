@@ -2,5 +2,5 @@
 
 Federico Kunze
 
-
+federico@tendermint.com
 
