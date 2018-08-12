@@ -16,6 +16,8 @@
   * [Ethereum ERC20 Tokens](initial-coin-offerings/ethereum-erc20-tokens.md)
   * Tokenization and ICOs
 * [Wallets](wallets.md)
+  * [Types of Wallets](wallets/types-of-wallets.md)
+  * [HD Wallets](wallets/hd-wallets.md)
 * [Law and regulations](law-and-regulations.md)
   * [SAFT](law-and-regulations/saft.md)
   * [Cardozo](law-and-regulations/cardozo.md)
