@@ -1,40 +1,35 @@
 # Summary
 
 * [Introduction](README.md)
-* [Blockchain Origins](blockchain-origins.md)
-  * [Cypherpunks](blockchain-origins/cypherpunks.md)
+* [Blockchain](blockchain.md)
+  * [Origins](blockchain/origins.md)
+  * [Types of Blockchains](blockchain/types-of-blockchains.md)
+  * [Use case](blockchain/use-case.md)
+* [Cryptography](cryptography.md)
+  * [Pub-key cryptography](cryptography/pub-key-cryptography.md)
+  * [Digital Signatures](cryptography/digital-signatures.md)
+  * [Peer-to-peer](cryptography/peer-to-peer.md)
 * [Bitcoin](bitcoin.md)
 * [Ethereum](ethereum.md)
-* [High Level Introduction](chapter1.md)
-  * [Bizantine Generals Problem](chapter1/bizantine-generals-problem.md)
-  * Understanding Consensus
-* [Low Level Intro](low-level-intro.md)
-  * [Pub-key cryptography](low-level-intro/pub-key-cryptography.md)
-  * [Digital Signatures](low-level-intro/digital-signatures.md)
-  * [Peer-to-peer](low-level-intro/peer-to-peer.md)
-* [Tokens and Exchanges](initial-coin-offerings.md)
-  * [Ethereum ERC20 Tokens](initial-coin-offerings/ethereum-erc20-tokens.md)
-  * Tokenization and ICOs
+* [Cryptocurrencies](cryptocurrencies.md)
+  * [Types of Cryptocurrencies](cryptocurrencies/types-of-cryptocurrencies.md)
+  * [Token Standards](cryptocurrencies/token-standards.md)
+  * [ICOs](cryptocurrencies/icos.md)
 * [Wallets](wallets.md)
   * [Types of Wallets](wallets/types-of-wallets.md)
   * [HD Wallets](wallets/hd-wallets.md)
 * [Law and regulations](law-and-regulations.md)
+  * [Legal concepts](law-and-regulations/legal-concepts.md)
   * [SAFT](law-and-regulations/saft.md)
   * [Cardozo](law-and-regulations/cardozo.md)
-  * [KYC](law-and-regulations/kyc.md)
-  * Right to Erasure
-  * Taxation
-    * [CFTA](law-and-regulations/cfta.md)
+  * [Taxation](law-and-regulations/taxation.md)
 * [Consensus Algorithms](consensus-algorithms.md)
-  * Proof of Work
-  * Proof of Stake
-  * PBFT
-  * Federated Consensus
-  * Ledger based consensus
-    * Paxos
-    * RAFT
-  * Alternative Consensus
-    * Tendermint
+  * [Proof of Work](consensus-algorithms/proof-of-work.md)
+  * [Proof of Stake](consensus-algorithms/proof-of-stake)
+  * [PBFT](consensus-algorithms/pbft.md)
+  * [Federated Consensus](consensus-algorithms/federated-consensus.md)
+  * [Proof of Authority](consensus-algorithms/proof-of-authority.md)
+  * [Proof of Burn](consensus-algorithms/proof-of-burn.md)
 * [Scalability](scalability.md)
   * [On-Chain Scaling](scalability/on-chain-scaling.md)
     * [Block Size, Block Speed and Transaction Size ](scalability/on-chain-scaling/tx-size-and-tps.md)
@@ -44,54 +39,30 @@
     * [State Prunning](scalability/on-chain-scaling/state-prunning.md)
     * [Different Data Structures](scalability/on-chain-scaling/different-data-structures.md)
       * [DAGs](scalability/on-chain-scaling/different-data-structures/dags.md)
-        * [Spectre](scalability/on-chain-scaling/different-data-structures/dags/spectre.md)
-        * [Phantom](scalability/on-chain-scaling/different-data-structures/dags/phantom.md)
-        * IOTA
-      * [Hashgraph](scalability/on-chain-scaling/different-data-structures/hashgraph.md)
   * [Off-Chain Scaling](scalability/off-chain-scaling.md)
     * Settlement Networks
     * Off-Chain Computations
       * Truebit
     * Generalized State Channels
-      * Plasma
-  * TEE based Scaling
-    * Microsoft Coco
   * Horizontal Scaling
     * Sidechains
       * Merge Mining
     * Atomic Swaps
-    * Cosmos
-    * Polkadot
-    * Interledger
-    * Comit
+    * Interoperability
+    * Plasma
   * Vertical Scaling
     * Sharding
-* [Identity](identity.md)
-  * [Uport](identity/uport.md)
-* [Oracle Networks](oracle-networks.md)
-  * [Services](oracle-networks/services.md)
-    * [Oraclize](oracle-networks/services/oraclize.md)
-    * Town Crier
-  * [Exogenous Solutions](oracle-networks/exogenous-solutions.md)
-    * SchellingCoin
-  * [Endogenous Solutions](oracle-networks/endogenous-solutions.md)
-* [Prediction Markets](prediction-markets.md)
-  * [Augur](prediction-markets/augur.md)
-  * [Gnosis](prediction-markets/gnosis.md)
 * [Price Stabilization](price-stabilization.md)
   * [Stable Coins](price-stabilization/stable-coins.md)
   * [Asset Backers](price-stabilization/asset-backers.md)
   * [Decentralized Monetary Policy](price-stabilization/decentralized-monetary-policy.md)
 * [Governance](governance.md)
   * [DAOs](governance/daos.md)
-  * [Tezos](governance/tezos.md)
   * [Futarchy](governance/futarchy.md)
-* [Decentralized Storage and Internet](decentralized-storage-and-internet.md)
-  * History
-  * [Storj](decentralized-storage-and-internet/storj.md)
-  * [Swarm](decentralized-storage-and-internet/swarm.md)
-  * [IPFS](decentralized-storage-and-internet/ipfs.md)
-  * [Filecoin](decentralized-storage-and-internet/filecoin.md)
-  * [TOR](decentralized-storage-and-internet/tor.md)
-  * [MaidSafe](decentralized-storage-and-internet/maidsafe.md)
+* [Oracles](oracles.md)
+  - [Exogenous Solutions](oracles/exogenous-solutions.md)
+  - [Endogenous Solutions](oracles/endogenous-solutions.md)
+* [Identity](identity.md)
+* [Decentralized Storage](decentralized-storage.md)
+* [Prediction Markets](prediction-markets.md)
 

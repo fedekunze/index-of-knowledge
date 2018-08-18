@@ -8,7 +8,7 @@ There are three different variables that affect the current throughput in transa
 
 The current formula for Bitcoin throughput in _tps_ is the following:
 
-![](/assets/Screen Shot 2018-01-09 at 11.22.25 AM.png)
+![Screen Shot 2018-01-09 at 11.22.25 AM](/Users/federico/Projects/index-of-knowledge/scalability/on-chain-scaling/assets/Screen Shot 2018-01-09 at 11.22.25 AM.png)
 
 ### 1. Increasing Block Size
 
@@ -32,14 +32,14 @@ While increasing the block size is one of the solutions for on-chain scalability
 * One time fix - what if blocks reach capacity once more? Slippery slope
 * May not be necessary due to alternatives
 
-### 2. Increasing Block Speed \( reducing confirmation time\)
+### 2. Increasing Block Speed \(reducing confirmation time\)
 
-Pros
+###### Pros
 
 * “Easy” implementation as well, as simple as changing average block difficulty
 * No loss of long-term security despite faster block times in context of double spends
 
-Cons
+###### Cons
 
 * Requires better bandwidth to keep up with network and storage space to keep up with faster blockchain growth
 * Larger miners enjoy higher mining efficiency → centralization risk
@@ -49,12 +49,12 @@ Cons
 
 ### 3. Decrease Tx Size
 
-Pros
+###### Pros
 
 * Doesn’t require extra bandwidth or storage space -- increases transactions/block without excess load
 * Difficult to disagree with morally or philosophically -- just requires optimizing data in transactions
 
-Cons
+###### Cons
 
 * Not easy to do -- what can be cut out?
 * One time fix -- can’t do again

@@ -4,21 +4,21 @@ To submit a transaction or message to the network, it needs to have the valid si
 
 Wallets are classified in two types depending on where they store the private keys.
 
-### Cold Wallets
+## Cold Wallets
 
 Cold wallets are files that are not connected to the internet. Meaning that the keys stay in the wallet and thus can't be accessed from outside.
 
-#### Hardware wallets
+### Hardware wallets
 
 Devices that store the private key securely and offline. It's required create a PIN pass to authorize transactions with the private key.
 
 
 
-#### Paper wallets
+### Paper wallets
 
 Private key printed in paper.
 
-### Hot Wallets
+## Hot Wallets
 
 These are wallets that are connected to the internet.
 

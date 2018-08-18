@@ -1,6 +1,4 @@
-## 
-
-## Futarchy
+# Futarchy
 
 Futarchy in a futuristic governance idea originally proposed by economist [Robin Handson](https://en.wikipedia.org/wiki/Robin_Hanson). The core idea behind it is "_Vote on values, but bet beliefs_".
 
@@ -8,7 +6,7 @@ Individuals vote on a metric to determine how well their institution \(governmen
 
 Two prediction markets, each containing one asset: one for acceptance and the other for the rejection of the proposal.
 
-**Process:**
+## Process
 
 1. Choose a success metric and a maturity duration
 2. Create and publish a proposed policy
@@ -19,7 +17,9 @@ Two prediction markets, each containing one asset: one for acceptance and the ot
 7. Wait for maturity and measure the success metric
 8. Reward everyone on the winning market in proportion to how many tokens they have
 
-Arguments
+## Arguments
+
+
 
 | In favor | Against |
 | :--- | :--- |

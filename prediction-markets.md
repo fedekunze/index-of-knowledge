@@ -1,6 +1,4 @@
 # Prediction Markets
 
-Augur
 
-Gnosis
 

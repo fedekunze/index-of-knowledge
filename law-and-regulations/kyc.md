@@ -1,4 +1,0 @@
-## Know Your Customer \(KYC\)
-
-
-
