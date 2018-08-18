@@ -7,8 +7,6 @@
   * [Use case](blockchain/use-case.md)
 * [Cryptography](cryptography.md)
   * [Pub-key cryptography](cryptography/pub-key-cryptography.md)
-  * [Digital Signatures](cryptography/digital-signatures.md)
-  * [Peer-to-peer](cryptography/peer-to-peer.md)
 * [Bitcoin](bitcoin.md)
 * [Ethereum](ethereum.md)
 * [Cryptocurrencies](cryptocurrencies.md)
@@ -25,7 +23,7 @@
   * [Taxation](law-and-regulations/taxation.md)
 * [Consensus Algorithms](consensus-algorithms.md)
   * [Proof of Work](consensus-algorithms/proof-of-work.md)
-  * [Proof of Stake](consensus-algorithms/proof-of-stake)
+  * [Proof of Stake](consensus-algorithms/proof-of-stake.md)
   * [PBFT](consensus-algorithms/pbft.md)
   * [Federated Consensus](consensus-algorithms/federated-consensus.md)
   * [Proof of Authority](consensus-algorithms/proof-of-authority.md)
@@ -53,7 +51,6 @@
   * Vertical Scaling
     * Sharding
 * [Price Stabilization](price-stabilization.md)
-  * [Stable Coins](price-stabilization/stable-coins.md)
   * [Asset Backers](price-stabilization/asset-backers.md)
   * [Decentralized Monetary Policy](price-stabilization/decentralized-monetary-policy.md)
 * [Governance](governance.md)

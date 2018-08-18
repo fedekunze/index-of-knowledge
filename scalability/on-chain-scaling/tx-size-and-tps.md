@@ -1,4 +1,4 @@
-## **Block Size, Block Speed and Transaction Size**
+# Block Size, Block Speed and Transaction Size
 
 There are three different variables that affect the current throughput in transactions per second \(tps\) processed by the current network:
 
@@ -8,9 +8,9 @@ There are three different variables that affect the current throughput in transa
 
 The current formula for Bitcoin throughput in _tps_ is the following:
 
-![Screen Shot 2018-01-09 at 11.22.25 AM](/Users/federico/Projects/index-of-knowledge/scalability/on-chain-scaling/assets/Screen Shot 2018-01-09 at 11.22.25 AM.png)
+![Screen Shot 2018-01-09 at 11.22.25 AM](/Users/federico/Projects/index-of-knowledge/assets/Screen Shot 2018-01-09 at 11.22.25 AM.png)
 
-### 1. Increasing Block Size
+## 1. Increasing Block Size
 
 While increasing the block size is one of the solutions for on-chain scalability, has certain pros and cons:
 
@@ -32,7 +32,7 @@ While increasing the block size is one of the solutions for on-chain scalability
 * One time fix - what if blocks reach capacity once more? Slippery slope
 * May not be necessary due to alternatives
 
-### 2. Increasing Block Speed \(reducing confirmation time\)
+## 2. Increasing Block Speed \(reducing confirmation time\)
 
 ###### Pros
 
@@ -47,7 +47,7 @@ While increasing the block size is one of the solutions for on-chain scalability
 * Orphaned block: a valid block propagated but not contained within the longest chain
 * High orphan rates lowers the effective hash power percentage of the network → decrease the security of a network \(a malicious actor now needs less hash power to pull a “51% attack”\)
 
-### 3. Decrease Tx Size
+## 3. Decrease Tx Size
 
 ###### Pros
 

@@ -1,10 +1,10 @@
-## Segregated Witnesses
+# Segregated Witnesses
 
 Segregated Witnesses \(Segwit\) aim to reduce transaction sizes by cleverly combining or pruning the transaction signatures, this produces a greater throughput and lower storage requirements.
 
-![](/assets/Screen Shot 2018-01-09 at 12.01.36 PM.png)
+![Screen Shot 2018-01-09 at 12.01.36 PM](/Users/federico/Projects/index-of-knowledge/scalability/on-chain-scaling/assets/Screen Shot 2018-01-09 at 12.01.36 PM.png)
 
-In a technical perspective, it aims to move script signatures out of transactions into a separate structure.  Signatures are hundreds of bytes in data and take ~60% of the transaction size.
+In a technical perspective, it aims to move script signatures out of transactions into a separate structure.  Signatures are hundreds of bytes in data and take **~60% of the transaction size**.
 
 ![](https://lh5.googleusercontent.com/GevIHuNXyJ7STIcVjA4FP0_eiQw14zJu60rZOO9nD_awmGj3by_yc4lfiox3mKdjab5TaSyXsfidoTWd9HtwMil22l59GLOOLhTuWA1e9CsGrAicAeKYI-htETpjSp3JdptY9lgP)
 
@@ -16,7 +16,7 @@ The SegWit proposal defines a new type of maximum block size in terms of block w
 
 **total size**:  block size in bytes with transactions serialized as described in BIP144, including base data and witness data.
 
-block weight = base size \* 3 + transaction size
+$blockWeight = 3*baseSize + transactionSize$
 
 With this new set of rules, the expected block size is 2.1MB, although SegWit nodes can have a potential effective block size increase up to 4MB, without increasing the block-size limit itself. Thus, SegWit blocks seem smaller in terms of base size than the pre-SegWit nodes, and since signatures do not affect the UTXOs, they can be eventually removed from the blockchain after a long period post-confirmation, reducing the size of the overall blockchain.
 

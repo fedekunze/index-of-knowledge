@@ -1,4 +1,4 @@
-## The GHOST Protocol
+# The GHOST Protocol
 
 
 
